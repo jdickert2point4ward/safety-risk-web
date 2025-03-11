@@ -1,0 +1,27 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+main {
+  margin: 20px;
+}
+
+input {
+  margin: 10px;
+  padding: 5px;
+  width: 300px;
+}
+
+button {
+  padding: 5px 15px;
+  margin: 10px;
+  cursor: pointer;
+}
